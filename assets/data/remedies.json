@@ -1,0 +1,365 @@
+{
+    "cold_cough": {
+      "displayName": {
+        "en": "Common Cold / Cough",
+        "hi": "जुकाम / खाँसी"
+      },
+      "tags": ["adult", "kid", "pregnancy-safe"],
+      "remedies": [
+        {
+          "herb": {
+            "en": "Tulsi, Ginger & Black Pepper",
+            "hi": "तुलसी, अदरक और काली मिर्च"
+          },
+          "description": {
+            "en": "1) Boil 2 cups water, add 8–10 tulsi leaves, 1 inch crushed ginger, and 3–4 black peppercorns.\n2) Simmer until reduced to ~1 cup. Strain.\n3) Add 1 tsp honey when warm (not boiling).\n4) Drink ½–1 cup twice a day.",
+            "hi": "1) 2 कप पानी उबालें, उसमें 8–10 तुलसी पत्ते, 1 इंच कटा हुआ अदरक और 3–4 काली मिर्च डालें।\n2) पानी आधा रह जाने तक पकाएँ।\n3) छानकर गुनगुना होने पर 1 चम्मच शहद मिलाएँ।\n4) दिन में 2 बार ½–1 कप पिएँ।"
+          },
+          "tags": ["adult", "kid", "pregnancy-safe"]
+        }
+      ]
+    },
+  
+    "headache": {
+      "displayName": {
+        "en": "Headache",
+        "hi": "सिरदर्द"
+      },
+      "tags": ["adult"],
+      "remedies": [
+        {
+          "herb": {
+            "en": "Brahmi",
+            "hi": "ब्राह्मी"
+          },
+          "description": {
+            "en": "Make brahmi tea: Steep 1 tsp brahmi in hot water 5 minutes. Drink slowly.",
+            "hi": "ब्राह्मी चाय: 1 चम्मच ब्राह्मी को गरम पानी में 5 मिनट डुबोकर छान लें और धीरे-धीरे पिएँ।"
+          },
+          "tags": ["adult"]
+        },
+        {
+          "herb": {
+            "en": "Peppermint Oil",
+            "hi": "पुदीना तेल"
+          },
+          "description": {
+            "en": "Massage temples with 2 drops peppermint oil diluted in 1 tsp coconut oil.",
+            "hi": "सिर पर हल्के हाथों से मालिश करें: 2 बूंद पुदीना तेल को 1 चम्मच नारियल तेल में मिलाकर।"
+          },
+          "tags": ["adult"]
+        }
+      ]
+    },
+  
+    "indigestion": {
+      "displayName": {
+        "en": "Indigestion / Acidity",
+        "hi": "अपच / अम्लपित्त"
+      },
+      "tags": ["adult"],
+      "remedies": [
+        {
+          "herb": {
+            "en": "Ajwain",
+            "hi": "अजवाइन"
+          },
+          "description": {
+            "en": "Crush 1 tsp ajwain, pour 1 cup hot water, steep 5 min, strain, sip after meals.",
+            "hi": "1 चम्मच अजवाइन कूटकर 1 कप गरम पानी में डालें, 5 मिनट बाद छानकर भोजन के बाद पिएँ।"
+          },
+          "tags": ["adult"]
+        },
+        {
+          "herb": {
+            "en": "Cumin",
+            "hi": "जीरा"
+          },
+          "description": {
+            "en": "Optional: chew ½ tsp roasted cumin with warm water.",
+            "hi": "वैकल्पिक: ½ चम्मच भुना जीरा गुनगुने पानी के साथ खाएँ।"
+          },
+          "tags": ["adult"]
+        }
+      ]
+    },
+  
+    "constipation": {
+      "displayName": {
+        "en": "Constipation",
+        "hi": "कब्ज़"
+      },
+      "tags": ["adult"],
+      "remedies": [
+        {
+          "herb": {
+            "en": "Triphala",
+            "hi": "त्रिफला"
+          },
+          "description": {
+            "en": "Take 1 tsp triphala powder with warm water/milk at bedtime.",
+            "hi": "सोने से पहले 1 चम्मच त्रिफला पाउडर गुनगुने पानी या दूध के साथ लें।"
+          },
+          "tags": ["adult"]
+        },
+        {
+          "herb": {
+            "en": "Isabgol",
+            "hi": "इसबगोल"
+          },
+          "description": {
+            "en": "Mix 1 tsp isabgol in a glass of water, drink immediately, follow with more water.",
+            "hi": "1 चम्मच इसबगोल को पानी में मिलाकर तुरंत पिएँ, फिर एक और गिलास पानी पिएँ।"
+          },
+          "tags": ["adult"]
+        }
+      ]
+    },
+  
+    "fever": {
+      "displayName": {
+        "en": "Fever (Mild/Seasonal)",
+        "hi": "बुखार (साधारण/मौसमी)"
+      },
+      "tags": ["adult", "kid"],
+      "remedies": [
+        {
+          "herb": {
+            "en": "Tulsi",
+            "hi": "तुलसी"
+          },
+          "description": {
+            "en": "Boil 5–6 tulsi leaves in 1 cup water, sip warm.",
+            "hi": "5–6 तुलसी पत्तों को 1 कप पानी में उबालकर गुनगुना पिएँ।"
+          },
+          "tags": ["adult", "kid"]
+        },
+        {
+          "herb": {
+            "en": "Coriander Seeds",
+            "hi": "धनिया बीज"
+          },
+          "description": {
+            "en": "Boil 1 tsp coriander seeds in 2 cups water, reduce to 1 cup, strain and drink.",
+            "hi": "1 चम्मच धनिया बीज को 2 कप पानी में उबालें, आधा रह जाने पर छानकर पिएँ।"
+          },
+          "tags": ["adult", "kid"]
+        }
+      ]
+    },
+  
+    "skin_problems": {
+      "displayName": {
+        "en": "Skin Problems (Acne/Itching)",
+        "hi": "त्वचा रोग (मुहाँसे/खुजली)"
+      },
+      "tags": ["adult", "kid"],
+      "remedies": [
+        {
+          "herb": {
+            "en": "Neem",
+            "hi": "नीम"
+          },
+          "description": {
+            "en": "Make paste of neem leaves with water, apply 10–15 min, wash off.",
+            "hi": "नीम की पत्तियों को पीसकर लेप लगाएँ, 10–15 मिनट बाद धो लें।"
+          },
+          "tags": ["adult", "kid"]
+        },
+        {
+          "herb": {
+            "en": "Turmeric & Rose Water",
+            "hi": "हल्दी और गुलाब जल"
+          },
+          "description": {
+            "en": "Mix turmeric with rose water, apply on pimples 20 min, wash off.",
+            "hi": "हल्दी और गुलाब जल का पेस्ट बनाकर दानों पर 20 मिनट लगाएँ।"
+          },
+          "tags": ["adult", "kid"]
+        },
+        {
+          "herb": {
+            "en": "Aloe Vera",
+            "hi": "एलोवेरा"
+          },
+          "description": {
+            "en": "Apply fresh aloe vera gel twice daily.",
+            "hi": "ताज़ा एलोवेरा जेल दिन में दो बार लगाएँ।"
+          },
+          "tags": ["adult", "kid"]
+        }
+      ]
+    },
+  
+    "pregnancy_support": {
+      "displayName": {
+        "en": "Pregnancy Support",
+        "hi": "गर्भावस्था"
+      },
+      "tags": ["pregnancy-safe"],
+      "remedies": [
+        {
+          "herb": {
+            "en": "Ghee in Milk",
+            "hi": "दूध में घी"
+          },
+          "description": {
+            "en": "Drink 1 cup warm milk with 1 tsp ghee daily (nutritive).",
+            "hi": "रोज़ 1 कप गरम दूध में 1 चम्मच घी डालकर पिएँ।"
+          },
+          "tags": ["pregnancy-safe"]
+        },
+        {
+          "herb": {
+            "en": "Amla",
+            "hi": "आंवला"
+          },
+          "description": {
+            "en": "Take 1–2 amla fruits daily for Vitamin C.",
+            "hi": "1–2 आंवले प्रतिदिन खाएँ (विटामिन C का स्रोत)।"
+          },
+          "tags": ["pregnancy-safe"]
+        },
+        {
+          "herb": {
+            "en": "Shatavari Kalpa",
+            "hi": "शतावरी कल्प"
+          },
+          "description": {
+            "en": "Shatavari kalpa (under vaidya guidance) supports pregnancy.",
+            "hi": "शतावरी कल्प (वैद्य की सलाह से) गर्भावस्था में उपयोगी है।"
+          },
+          "tags": ["pregnancy-safe"]
+        }
+      ]
+    },
+  
+    "sore_throat": {
+      "displayName": {
+        "en": "Sore Throat",
+        "hi": "गला खराब / खराश"
+      },
+      "tags": ["adult", "kid"],
+      "remedies": [
+        {
+          "herb": {
+            "en": "Turmeric & Salt Gargle",
+            "hi": "हल्दी और नमक गरारे"
+          },
+          "description": {
+            "en": "Gargle with warm water + ½ tsp turmeric + ½ tsp salt, 2–3 times/day.",
+            "hi": "1 कप गुनगुने पानी में ½ चम्मच हल्दी और ½ चम्मच नमक मिलाकर दिन में 2–3 बार गरारे करें।"
+          },
+          "tags": ["adult", "kid"]
+        },
+        {
+          "herb": {
+            "en": "Mulethi",
+            "hi": "मुलेठी"
+          },
+          "description": {
+            "en": "Boil mulethi stick in water, simmer 5 min, strain, sip warm.",
+            "hi": "मुलेठी की डंडी पानी में उबालकर 5 मिनट पकाएँ, छानकर गुनगुना पिएँ।"
+          },
+          "tags": ["adult", "kid"]
+        },
+        {
+          "herb": {
+            "en": "Ginger with Honey",
+            "hi": "अदरक और शहद"
+          },
+          "description": {
+            "en": "Ginger tea with 1 tsp honey (when warm).",
+            "hi": "अदरक की चाय बनाकर उसमें 1 चम्मच शहद डालकर पिएँ।"
+          },
+          "tags": ["adult", "kid", "pregnancy-safe"]
+        }
+      ]
+    },
+  
+    "gas_bloating": {
+      "displayName": {
+        "en": "Gas / Bloating",
+        "hi": "गैस / अफारा"
+      },
+      "tags": ["adult"],
+      "remedies": [
+        {
+          "herb": {
+            "en": "Ajwain & Black Salt",
+            "hi": "अजवाइन और काला नमक"
+          },
+          "description": {
+            "en": "Chew ½ tsp ajwain with pinch of black salt after meals.",
+            "hi": "भोजन के बाद ½ चम्मच अजवाइन में चुटकी भर काला नमक मिलाकर चबाएँ।"
+          },
+          "tags": ["adult"]
+        },
+        {
+          "herb": {
+            "en": "Hing",
+            "hi": "हींग"
+          },
+          "description": {
+            "en": "Mix pinch of hing in warm water, drink once daily.",
+            "hi": "गुनगुने पानी में चुटकी भर हींग डालकर दिन में एक बार पिएँ।"
+          },
+          "tags": ["adult"]
+        },
+        {
+          "herb": {
+            "en": "Fennel Seeds",
+            "hi": "सौंफ"
+          },
+          "description": {
+            "en": "Chew 1 tsp fennel seeds after meals.",
+            "hi": "भोजन के बाद 1 चम्मच सौंफ चबाएँ।"
+          },
+          "tags": ["adult"]
+        }
+      ]
+    },
+  
+    "stress_insomnia": {
+      "displayName": {
+        "en": "Stress / Insomnia",
+        "hi": "तनाव / अनिद्रा"
+      },
+      "tags": ["adult"],
+      "remedies": [
+        {
+          "herb": {
+            "en": "Nutmeg in Milk",
+            "hi": "दूध में जायफल"
+          },
+          "description": {
+            "en": "Take warm milk with a pinch of nutmeg at bedtime.",
+            "hi": "सोने से पहले गरम दूध में चुटकी भर जायफल मिलाकर पिएँ।"
+          },
+          "tags": ["adult"]
+        },
+        {
+          "herb": {
+            "en": "Brahmi",
+            "hi": "ब्राह्मी"
+          },
+          "description": {
+            "en": "Drink brahmi tea once daily to calm the mind.",
+            "hi": "दिन में एक बार ब्राह्मी की चाय पिएँ, मन शांत होता है।"
+          },
+          "tags": ["adult"]
+        },
+        {
+          "herb": {
+            "en": "Jatamansi Oil",
+            "hi": "जटामांसी तेल"
+          },
+          "description": {
+            "en": "Use jatamansi oil massage on feet before sleep.",
+            "hi": "सोने से पहले पैरों पर जटामांसी तेल से मालिश करें।"
+          },
+          "tags": ["adult"]
+        }
+      ]
+    }
+  }
