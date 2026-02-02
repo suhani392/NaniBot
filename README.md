@@ -1,16 +1,61 @@
-# nanibot
+# NaniBot
 
-A new Flutter project.
+**Traditional Ayurvedic Wisdom in Your Pocket.**
+
+NaniBot is a caring, multilingual digital assistant designed to feel like your own grandmother (Nani). It provides natural, home-based Ayurvedic remedies for common health issues like headaches, fever, indigestion, and more. 
+
+![NaniBot Preview](assets/images/preview.png)
+
+## Features
+
+- **Caring "Nani" Persona**: Interacts with you in a warm, conversational manner, offering advice just like a grandmother would.
+- **Multilingual Support**: Currently supports **English** and **Hindi**, making traditional wisdom accessible to more people.
+- **Authentic Ayurvedic Remedies**: Suggests remedies based on traditional herbs like Tulsi, Ginger, Brahmi, and Triphala.
+- **Modern & Traditional UI**: A beautiful Flutter-based interface that combines modern design with traditional aesthetics.
+- **Saved Remedies**: Bookmark your favorite remedies for quick access later.
+- **Personas & Safety**: Includes specific remedy tags for adults, kids, and even pregnancy-safe suggestions.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter SDK](https://docs.flutter.dev/get-started/install) installed on your machine.
+- A mobile emulator or physical device for testing.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/suhani392/NaniBot.git
+   cd NaniBot
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app:**
+   ```bash
+   flutter run
+   ```
+
+## Project Structure
+
+- `lib/services`: Core logic for bot interaction and remedy loading.
+- `lib/models`: Data models for chat messages and remedies.
+- `lib/home_screen.dart`: Main UI with chat and navigation.
+- `assets/data/remedies.json`: The knowledge base for Ayurvedic remedies.
+
+## Built With
+
+- [Flutter](https://flutter.dev/) - UI Framework
+- [Dart](https://dart.dev/) - Programming Language
+- [Google Fonts](https://pub.dev/packages/google_fonts) - Typography
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+*Disclaimer: NaniBot provides general home remedies based on traditional Ayurvedic practices. It is not a substitute for professional medical advice. Always consult a doctor for serious conditions.*
