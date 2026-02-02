@@ -4,7 +4,6 @@
 
 NaniBot is a caring, multilingual digital assistant designed to feel like your own grandmother (Nani). It provides natural, home-based Ayurvedic remedies for common health issues like headaches, fever, indigestion, and more. 
 
-![NaniBot Preview](assets/images/preview.png)
 
 ## Features
 
